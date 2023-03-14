@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Yugioh Card App</string>
+    <string name="no_results">NO CARD FOUND</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
+</resources>
